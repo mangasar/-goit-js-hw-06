@@ -1,0 +1,1 @@
+const InpLen = document.querySelector('input#validation-input')
